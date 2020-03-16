@@ -21,7 +21,7 @@ h1, h2, h3 {
 }
 header h1 {
   margin-top:0.5em;
-  color: #fff;
+  color: #444;
   margin-bottom: 0;
 }
 
@@ -106,12 +106,12 @@ a.btn:focus {
 
 a.btn-white:link,
 a.btn-white:visited {
-  background: #fff;
-  color: #080067
+  background: #BE7A86;
+  color: #fff
 }
 a.btn-white:hover,
 a.btn-white:focus {
-  background-color: #00c2b2;
+  background-color: #BE7A86;
   color: #fff
 }
 
