@@ -38,8 +38,8 @@ header .container {
 header {
   background-color: #eeeeee;
 background: rgb(255,255,255);
-background: radial-gradient(circle, rgba(255,255,255,1) 5%, rgba(239,227,203,1) 37%, rgba(240,216,167,1) 76%, rgba(238,238,238,1) 99%, rgba(245,173,26,1) 99%);
-  color: #fff;
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(239,227,203,1) 11%, rgba(240,216,167,1) 73%, rgba(238,238,238,1) 100%);
+  color: #444;
   padding-top: 13vh;
   padding-bottom: 13vh;
 }
